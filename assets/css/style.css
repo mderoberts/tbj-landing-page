@@ -19,3 +19,16 @@
 .btn {
     margin-bottom: 5%;
 }
+
+.header-image img {
+    float: left;
+    margin-right: 2%;
+}
+
+.header-image h3 {
+    position: relative;
+}
+
+.text-box{
+    margin-top: 10%;
+}
